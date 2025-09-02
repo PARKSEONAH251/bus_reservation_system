@@ -37,3 +37,6 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+app/student-unique-id-data-firebase-adminsdk-fbsvc-7c36cb979a.json
+bus_reserbetion/app/students.csv
+bus_reserbetion/student-unique-id-data-firebase-adminsdk-fbsvc-7c36cb979a.json
